@@ -14,6 +14,6 @@ In this project using an ai virtual mouse instead of using external mouse.
 
 * First,detect and track an hand using mediapipe library.
 * Then,Use a hand landmarks to create two classes,one is for moving and another is for clicking on it.
-* Using an Autopy liberary to connect a mouse with hand landmarks.
+* Using an Autopy library to connect a mouse with hand landmarks.
 * Using Autopy you know you sensitivity of mouse to control and adjust it.
       
